@@ -1,0 +1,9 @@
+{
+  "name": "blade-template",
+  "description": "A blade template engine",
+  "require": {
+    "yiisoft/yii2": "~2.0.14",
+    "illuminate/view":"~5",
+    "illuminate/events":"~5"
+  }
+}
