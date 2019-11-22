@@ -1,5 +1,5 @@
 {
-  "name": "WJun/blade-template",
+  "name": "wjun/blade-template",
   "description": "A blade template engine",
   "require": {
     "yiisoft/yii2": "~2.0.14",
