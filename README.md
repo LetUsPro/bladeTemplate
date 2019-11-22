@@ -1,1 +1,1 @@
-# bladeTemplate for yii2
+# bladeTemplate for Yii2
