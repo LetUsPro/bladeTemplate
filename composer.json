@@ -1,6 +1,7 @@
 {
   "name": "wjun/blade-template",
   "description": "A blade template engine",
+  "license": "MIT",
   "require": {
     "yiisoft/yii2": "~2.0.14",
     "illuminate/view":"~5",
