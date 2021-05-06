@@ -6,13 +6,9 @@ import (
 )
 
 func lengthOfLastWord(s string) int {
-	s1 := strings.ReplaceAll(s, " ", "")
-	if s1 == "" {
-		return 0
-	}
-	strArr := strings.Split(strings.Trim(s, " "), " ")
-	fmt.Println(strArr)
-	return len(strArr[len(strArr)-1])
+	s = strings.TrimSpace(s)
+	sli := strings.Split(s, " ")
+	return len(sli[len(sli)-1])
 }
 
 func main() {
