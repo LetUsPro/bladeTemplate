@@ -1,1 +1,3 @@
-# Leetcode list
+# Algorithm List
+
+### include leetcode topic
